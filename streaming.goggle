@@ -1,0 +1,5 @@
+! name: Streaming goggle
+! description: A Brave Search goggle to search content on Hungarian streaming sites
+! public: false
+! author: EcLiPzZz
+$site=play.hbomax.com
