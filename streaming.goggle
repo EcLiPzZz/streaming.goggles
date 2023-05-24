@@ -6,8 +6,7 @@ $discard
 $boost,site=twitch.tv
 $boost,site=play.hbomax.com
 $boost,site=hbomax.com
-$boost,site=netflix.com
-$discard,site=dvd.netflix.com
-$boost,site=skyshowtime.com
+$boost,site=netflix.com/hu-en/
+$boost,site=skyshowtime.com/hu/
 $boost,site=disneyplus.com
-$boost,site=primevideo.com
+$boost,site=primevideo.com/region/eu/
