@@ -7,5 +7,6 @@ $boost,site=play.hbomax.com
 $boost,site=hbomax.com
 /hu-en/^$boost,site=netflix.com
 /hu/^$boost,site=skyshowtime.com
-/en-hu/^$boost,site=disneyplus.com
+$boost,site=disneyplus.com
+! /en-hu/^$boost,site=disneyplus.com
 /region/eu/^$boost,site=primevideo.com
