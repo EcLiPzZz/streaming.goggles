@@ -6,7 +6,7 @@ $discard
 $boost,site=twitch.tv
 $boost,site=play.hbomax.com
 $boost,site=hbomax.com
-$boost,site=netflix.com/hu-en/
+/hu-en/^$boost=3,site=netflix.com
 $boost,site=skyshowtime.com/hu/
 $boost,site=disneyplus.com
 $boost,site=primevideo.com/region/eu/
